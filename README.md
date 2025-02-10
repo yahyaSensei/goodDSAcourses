@@ -37,8 +37,26 @@ programming basics(C++)==>
 
 https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3
 
+
 https://youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow&si=JZ4liNDiGRxix2Bm
 
 https://youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp&si=GTxlkCU5ZENfUxux
 
 DSA==>https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&si=mOZ1VT5RCzgitG04
+
+
+____________________________________________________________________________
+
+Art of computer programming (from ancestors of DSA books)
+
+https://pub.deadnet.se/Books_on_Computers_and_Programming/Art%20of%20Computer%20Programming%20-%20Volume%201%20(Fundamental%20Algorithms).pdf
+
+https://pub.deadnet.se/Books_on_Computers_and_Programming/Art%20of%20Computer%20Programming%20-%20Volume%201%20(MMIX%20-%20RISC%20Computer%20for%20the%20New%20Millennium).pdf
+
+https://pub.deadnet.se/Books_on_Computers_and_Programming/Art%20of%20Computer%20Programming%20-%20Volume%202%20(Seminumerical%20Algorithms).pdf
+
+https://pub.deadnet.se/Books_on_Computers_and_Programming/Art%20of%20Computer%20Programming%20-%20Volume%203%20(Sorting%20&%20Searching).pdf
+
+https://pub.deadnet.se/Books_on_Computers_and_Programming/Art%20of%20Computer%20Programming%20-%20Volume%204A%20(Combinatorial%20Algorithms%20-%20Part%201).pdf
+
+https://pub.deadnet.se/Books_on_Computers_and_Programming/Art%20of%20Computer%20Programming%20-%20Volume%204B%20(Combinatorial%20Algorithms%20-%20Part%202).pdf
